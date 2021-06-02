@@ -15,6 +15,7 @@ namespace pipelinedevops
     {
         public Startup(IConfiguration configuration)
         {
+            //Modified from Visual Studio
             Configuration = configuration;
         }
 
